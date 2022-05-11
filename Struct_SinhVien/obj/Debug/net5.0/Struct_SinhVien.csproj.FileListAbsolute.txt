@@ -1,0 +1,16 @@
+D:\VS\Minh\Struct_SinhVien\bin\Debug\net5.0\Struct_SinhVien.exe
+D:\VS\Minh\Struct_SinhVien\bin\Debug\net5.0\Struct_SinhVien.deps.json
+D:\VS\Minh\Struct_SinhVien\bin\Debug\net5.0\Struct_SinhVien.runtimeconfig.json
+D:\VS\Minh\Struct_SinhVien\bin\Debug\net5.0\Struct_SinhVien.runtimeconfig.dev.json
+D:\VS\Minh\Struct_SinhVien\bin\Debug\net5.0\Struct_SinhVien.dll
+D:\VS\Minh\Struct_SinhVien\bin\Debug\net5.0\ref\Struct_SinhVien.dll
+D:\VS\Minh\Struct_SinhVien\bin\Debug\net5.0\Struct_SinhVien.pdb
+D:\VS\Minh\Struct_SinhVien\obj\Debug\net5.0\Struct_SinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Minh\Struct_SinhVien\obj\Debug\net5.0\Struct_SinhVien.AssemblyInfoInputs.cache
+D:\VS\Minh\Struct_SinhVien\obj\Debug\net5.0\Struct_SinhVien.AssemblyInfo.cs
+D:\VS\Minh\Struct_SinhVien\obj\Debug\net5.0\Struct_SinhVien.csproj.CoreCompileInputs.cache
+D:\VS\Minh\Struct_SinhVien\obj\Debug\net5.0\Struct_SinhVien.dll
+D:\VS\Minh\Struct_SinhVien\obj\Debug\net5.0\ref\Struct_SinhVien.dll
+D:\VS\Minh\Struct_SinhVien\obj\Debug\net5.0\Struct_SinhVien.pdb
+D:\VS\Minh\Struct_SinhVien\obj\Debug\net5.0\Struct_SinhVien.genruntimeconfig.cache
+D:\VS\Minh\Struct_SinhVien\obj\Debug\net5.0\Struct_SinhVien.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\VS\Minh\SoLonNhatDuong\bin\Debug\net5.0\SoLonNhatDuong.exe
+D:\VS\Minh\SoLonNhatDuong\bin\Debug\net5.0\SoLonNhatDuong.deps.json
+D:\VS\Minh\SoLonNhatDuong\bin\Debug\net5.0\SoLonNhatDuong.runtimeconfig.json
+D:\VS\Minh\SoLonNhatDuong\bin\Debug\net5.0\SoLonNhatDuong.runtimeconfig.dev.json
+D:\VS\Minh\SoLonNhatDuong\bin\Debug\net5.0\SoLonNhatDuong.dll
+D:\VS\Minh\SoLonNhatDuong\bin\Debug\net5.0\ref\SoLonNhatDuong.dll
+D:\VS\Minh\SoLonNhatDuong\bin\Debug\net5.0\SoLonNhatDuong.pdb
+D:\VS\Minh\SoLonNhatDuong\obj\Debug\net5.0\SoLonNhatDuong.csproj.AssemblyReference.cache
+D:\VS\Minh\SoLonNhatDuong\obj\Debug\net5.0\SoLonNhatDuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Minh\SoLonNhatDuong\obj\Debug\net5.0\SoLonNhatDuong.AssemblyInfoInputs.cache
+D:\VS\Minh\SoLonNhatDuong\obj\Debug\net5.0\SoLonNhatDuong.AssemblyInfo.cs
+D:\VS\Minh\SoLonNhatDuong\obj\Debug\net5.0\SoLonNhatDuong.csproj.CoreCompileInputs.cache
+D:\VS\Minh\SoLonNhatDuong\obj\Debug\net5.0\SoLonNhatDuong.dll
+D:\VS\Minh\SoLonNhatDuong\obj\Debug\net5.0\ref\SoLonNhatDuong.dll
+D:\VS\Minh\SoLonNhatDuong\obj\Debug\net5.0\SoLonNhatDuong.pdb
+D:\VS\Minh\SoLonNhatDuong\obj\Debug\net5.0\SoLonNhatDuong.genruntimeconfig.cache

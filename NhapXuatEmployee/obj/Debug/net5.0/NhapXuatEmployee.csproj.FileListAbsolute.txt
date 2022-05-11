@@ -1,0 +1,16 @@
+D:\VS\Minh\NhapXuatEmployee\bin\Debug\net5.0\NhapXuatEmployee.exe
+D:\VS\Minh\NhapXuatEmployee\bin\Debug\net5.0\NhapXuatEmployee.deps.json
+D:\VS\Minh\NhapXuatEmployee\bin\Debug\net5.0\NhapXuatEmployee.runtimeconfig.json
+D:\VS\Minh\NhapXuatEmployee\bin\Debug\net5.0\NhapXuatEmployee.runtimeconfig.dev.json
+D:\VS\Minh\NhapXuatEmployee\bin\Debug\net5.0\NhapXuatEmployee.dll
+D:\VS\Minh\NhapXuatEmployee\bin\Debug\net5.0\ref\NhapXuatEmployee.dll
+D:\VS\Minh\NhapXuatEmployee\bin\Debug\net5.0\NhapXuatEmployee.pdb
+D:\VS\Minh\NhapXuatEmployee\obj\Debug\net5.0\NhapXuatEmployee.csproj.AssemblyReference.cache
+D:\VS\Minh\NhapXuatEmployee\obj\Debug\net5.0\NhapXuatEmployee.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Minh\NhapXuatEmployee\obj\Debug\net5.0\NhapXuatEmployee.AssemblyInfoInputs.cache
+D:\VS\Minh\NhapXuatEmployee\obj\Debug\net5.0\NhapXuatEmployee.AssemblyInfo.cs
+D:\VS\Minh\NhapXuatEmployee\obj\Debug\net5.0\NhapXuatEmployee.csproj.CoreCompileInputs.cache
+D:\VS\Minh\NhapXuatEmployee\obj\Debug\net5.0\NhapXuatEmployee.dll
+D:\VS\Minh\NhapXuatEmployee\obj\Debug\net5.0\ref\NhapXuatEmployee.dll
+D:\VS\Minh\NhapXuatEmployee\obj\Debug\net5.0\NhapXuatEmployee.pdb
+D:\VS\Minh\NhapXuatEmployee\obj\Debug\net5.0\NhapXuatEmployee.genruntimeconfig.cache

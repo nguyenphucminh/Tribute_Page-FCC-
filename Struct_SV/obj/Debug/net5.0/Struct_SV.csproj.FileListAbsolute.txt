@@ -1,0 +1,16 @@
+D:\VS\Minh\Struct_SV\bin\Debug\net5.0\Struct_SV.exe
+D:\VS\Minh\Struct_SV\bin\Debug\net5.0\Struct_SV.deps.json
+D:\VS\Minh\Struct_SV\bin\Debug\net5.0\Struct_SV.runtimeconfig.json
+D:\VS\Minh\Struct_SV\bin\Debug\net5.0\Struct_SV.runtimeconfig.dev.json
+D:\VS\Minh\Struct_SV\bin\Debug\net5.0\Struct_SV.dll
+D:\VS\Minh\Struct_SV\bin\Debug\net5.0\ref\Struct_SV.dll
+D:\VS\Minh\Struct_SV\bin\Debug\net5.0\Struct_SV.pdb
+D:\VS\Minh\Struct_SV\obj\Debug\net5.0\Struct_SV.csproj.AssemblyReference.cache
+D:\VS\Minh\Struct_SV\obj\Debug\net5.0\Struct_SV.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Minh\Struct_SV\obj\Debug\net5.0\Struct_SV.AssemblyInfoInputs.cache
+D:\VS\Minh\Struct_SV\obj\Debug\net5.0\Struct_SV.AssemblyInfo.cs
+D:\VS\Minh\Struct_SV\obj\Debug\net5.0\Struct_SV.csproj.CoreCompileInputs.cache
+D:\VS\Minh\Struct_SV\obj\Debug\net5.0\Struct_SV.dll
+D:\VS\Minh\Struct_SV\obj\Debug\net5.0\ref\Struct_SV.dll
+D:\VS\Minh\Struct_SV\obj\Debug\net5.0\Struct_SV.pdb
+D:\VS\Minh\Struct_SV\obj\Debug\net5.0\Struct_SV.genruntimeconfig.cache

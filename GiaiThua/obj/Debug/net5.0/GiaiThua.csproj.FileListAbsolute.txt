@@ -1,0 +1,15 @@
+D:\VS\Minh\GiaiThua\obj\Debug\net5.0\GiaiThua.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Minh\GiaiThua\obj\Debug\net5.0\GiaiThua.AssemblyInfoInputs.cache
+D:\VS\Minh\GiaiThua\obj\Debug\net5.0\GiaiThua.AssemblyInfo.cs
+D:\VS\Minh\GiaiThua\obj\Debug\net5.0\GiaiThua.csproj.CoreCompileInputs.cache
+D:\VS\Minh\GiaiThua\bin\Debug\net5.0\GiaiThua.exe
+D:\VS\Minh\GiaiThua\bin\Debug\net5.0\GiaiThua.deps.json
+D:\VS\Minh\GiaiThua\bin\Debug\net5.0\GiaiThua.runtimeconfig.json
+D:\VS\Minh\GiaiThua\bin\Debug\net5.0\GiaiThua.runtimeconfig.dev.json
+D:\VS\Minh\GiaiThua\bin\Debug\net5.0\GiaiThua.dll
+D:\VS\Minh\GiaiThua\bin\Debug\net5.0\ref\GiaiThua.dll
+D:\VS\Minh\GiaiThua\bin\Debug\net5.0\GiaiThua.pdb
+D:\VS\Minh\GiaiThua\obj\Debug\net5.0\GiaiThua.dll
+D:\VS\Minh\GiaiThua\obj\Debug\net5.0\ref\GiaiThua.dll
+D:\VS\Minh\GiaiThua\obj\Debug\net5.0\GiaiThua.pdb
+D:\VS\Minh\GiaiThua\obj\Debug\net5.0\GiaiThua.genruntimeconfig.cache

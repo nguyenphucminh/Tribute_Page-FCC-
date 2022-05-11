@@ -1,0 +1,16 @@
+D:\VS\Minh\Time\obj\Debug\net5.0\Time.csproj.AssemblyReference.cache
+D:\VS\Minh\Time\obj\Debug\net5.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Minh\Time\obj\Debug\net5.0\Time.AssemblyInfoInputs.cache
+D:\VS\Minh\Time\obj\Debug\net5.0\Time.AssemblyInfo.cs
+D:\VS\Minh\Time\obj\Debug\net5.0\Time.csproj.CoreCompileInputs.cache
+D:\VS\Minh\Time\bin\Debug\net5.0\Time.exe
+D:\VS\Minh\Time\bin\Debug\net5.0\Time.deps.json
+D:\VS\Minh\Time\bin\Debug\net5.0\Time.runtimeconfig.json
+D:\VS\Minh\Time\bin\Debug\net5.0\Time.runtimeconfig.dev.json
+D:\VS\Minh\Time\bin\Debug\net5.0\Time.dll
+D:\VS\Minh\Time\bin\Debug\net5.0\ref\Time.dll
+D:\VS\Minh\Time\bin\Debug\net5.0\Time.pdb
+D:\VS\Minh\Time\obj\Debug\net5.0\Time.dll
+D:\VS\Minh\Time\obj\Debug\net5.0\ref\Time.dll
+D:\VS\Minh\Time\obj\Debug\net5.0\Time.pdb
+D:\VS\Minh\Time\obj\Debug\net5.0\Time.genruntimeconfig.cache

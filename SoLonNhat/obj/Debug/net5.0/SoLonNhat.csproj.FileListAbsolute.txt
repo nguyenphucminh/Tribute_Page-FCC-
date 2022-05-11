@@ -1,0 +1,16 @@
+D:\VS\Minh\SoLonNhat\bin\Debug\net5.0\SoLonNhat.exe
+D:\VS\Minh\SoLonNhat\bin\Debug\net5.0\SoLonNhat.deps.json
+D:\VS\Minh\SoLonNhat\bin\Debug\net5.0\SoLonNhat.runtimeconfig.json
+D:\VS\Minh\SoLonNhat\bin\Debug\net5.0\SoLonNhat.runtimeconfig.dev.json
+D:\VS\Minh\SoLonNhat\bin\Debug\net5.0\SoLonNhat.dll
+D:\VS\Minh\SoLonNhat\bin\Debug\net5.0\ref\SoLonNhat.dll
+D:\VS\Minh\SoLonNhat\bin\Debug\net5.0\SoLonNhat.pdb
+D:\VS\Minh\SoLonNhat\obj\Debug\net5.0\SoLonNhat.csproj.AssemblyReference.cache
+D:\VS\Minh\SoLonNhat\obj\Debug\net5.0\SoLonNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Minh\SoLonNhat\obj\Debug\net5.0\SoLonNhat.AssemblyInfoInputs.cache
+D:\VS\Minh\SoLonNhat\obj\Debug\net5.0\SoLonNhat.AssemblyInfo.cs
+D:\VS\Minh\SoLonNhat\obj\Debug\net5.0\SoLonNhat.csproj.CoreCompileInputs.cache
+D:\VS\Minh\SoLonNhat\obj\Debug\net5.0\SoLonNhat.dll
+D:\VS\Minh\SoLonNhat\obj\Debug\net5.0\ref\SoLonNhat.dll
+D:\VS\Minh\SoLonNhat\obj\Debug\net5.0\SoLonNhat.pdb
+D:\VS\Minh\SoLonNhat\obj\Debug\net5.0\SoLonNhat.genruntimeconfig.cache

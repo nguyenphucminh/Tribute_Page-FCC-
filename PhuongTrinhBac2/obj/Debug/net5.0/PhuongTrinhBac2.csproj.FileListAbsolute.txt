@@ -1,0 +1,16 @@
+D:\VS\Minh\PhuongTrinhBac2\bin\Debug\net5.0\PhuongTrinhBac2.exe
+D:\VS\Minh\PhuongTrinhBac2\bin\Debug\net5.0\PhuongTrinhBac2.deps.json
+D:\VS\Minh\PhuongTrinhBac2\bin\Debug\net5.0\PhuongTrinhBac2.runtimeconfig.json
+D:\VS\Minh\PhuongTrinhBac2\bin\Debug\net5.0\PhuongTrinhBac2.runtimeconfig.dev.json
+D:\VS\Minh\PhuongTrinhBac2\bin\Debug\net5.0\PhuongTrinhBac2.dll
+D:\VS\Minh\PhuongTrinhBac2\bin\Debug\net5.0\ref\PhuongTrinhBac2.dll
+D:\VS\Minh\PhuongTrinhBac2\bin\Debug\net5.0\PhuongTrinhBac2.pdb
+D:\VS\Minh\PhuongTrinhBac2\obj\Debug\net5.0\PhuongTrinhBac2.csproj.AssemblyReference.cache
+D:\VS\Minh\PhuongTrinhBac2\obj\Debug\net5.0\PhuongTrinhBac2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Minh\PhuongTrinhBac2\obj\Debug\net5.0\PhuongTrinhBac2.AssemblyInfoInputs.cache
+D:\VS\Minh\PhuongTrinhBac2\obj\Debug\net5.0\PhuongTrinhBac2.AssemblyInfo.cs
+D:\VS\Minh\PhuongTrinhBac2\obj\Debug\net5.0\PhuongTrinhBac2.csproj.CoreCompileInputs.cache
+D:\VS\Minh\PhuongTrinhBac2\obj\Debug\net5.0\PhuongTrinhBac2.dll
+D:\VS\Minh\PhuongTrinhBac2\obj\Debug\net5.0\ref\PhuongTrinhBac2.dll
+D:\VS\Minh\PhuongTrinhBac2\obj\Debug\net5.0\PhuongTrinhBac2.pdb
+D:\VS\Minh\PhuongTrinhBac2\obj\Debug\net5.0\PhuongTrinhBac2.genruntimeconfig.cache

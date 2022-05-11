@@ -1,0 +1,15 @@
+D:\VS\Minh\TimKiem\bin\Debug\net5.0\TimKiem.exe
+D:\VS\Minh\TimKiem\bin\Debug\net5.0\TimKiem.deps.json
+D:\VS\Minh\TimKiem\bin\Debug\net5.0\TimKiem.runtimeconfig.json
+D:\VS\Minh\TimKiem\bin\Debug\net5.0\TimKiem.runtimeconfig.dev.json
+D:\VS\Minh\TimKiem\bin\Debug\net5.0\TimKiem.dll
+D:\VS\Minh\TimKiem\bin\Debug\net5.0\ref\TimKiem.dll
+D:\VS\Minh\TimKiem\bin\Debug\net5.0\TimKiem.pdb
+D:\VS\Minh\TimKiem\obj\Debug\net5.0\TimKiem.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Minh\TimKiem\obj\Debug\net5.0\TimKiem.AssemblyInfoInputs.cache
+D:\VS\Minh\TimKiem\obj\Debug\net5.0\TimKiem.AssemblyInfo.cs
+D:\VS\Minh\TimKiem\obj\Debug\net5.0\TimKiem.csproj.CoreCompileInputs.cache
+D:\VS\Minh\TimKiem\obj\Debug\net5.0\TimKiem.dll
+D:\VS\Minh\TimKiem\obj\Debug\net5.0\ref\TimKiem.dll
+D:\VS\Minh\TimKiem\obj\Debug\net5.0\TimKiem.pdb
+D:\VS\Minh\TimKiem\obj\Debug\net5.0\TimKiem.genruntimeconfig.cache
