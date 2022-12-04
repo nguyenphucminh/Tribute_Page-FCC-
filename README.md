@@ -208,7 +208,6 @@ namespace oop
 ```
 >Có thể thấy là class Dog, Cat chỉ có thể extend một abstract class, ở trên chúng ta viết method Eat() với từ khóa virtual nên class Dog, Cat có thể override lại.
 
-
 #### Interface
 >Interface không phải là class. Nó chỉ chứa những method/properties trống không có thực thi. Interface giống như một khuôn mẫu, một khung để để các lớp implement và follow. Các lớp có thể implements nhiều interface. Tức nó là một contract, các class implement phải triển khai các method theo như interface đã định nghĩa.
 ```
@@ -253,6 +252,30 @@ namespace oop
 
             b.Speak();
             b.Eat();
+        }
+    }
+}
+```
+
+#### Virtual 
+> Virtual là hàm ảo, có thể bị ghi đè bởi hàm cùng tên, cùng tham số, cùng kiểu trả về ở lớp kế thừa
+```
+using System;
+namespace oop
+{
+    abstract class Animal
+    {
+        public virtual void Eat(string something)
+        {
+            Console.WriteLine("Eat " + something);
+        }
+    }
+    
+    class Dog : Animal
+    {
+        public override void Eat(string something)
+        {
+            Console.WriteLine("Dog speaks go go");
         }
     }
 }
