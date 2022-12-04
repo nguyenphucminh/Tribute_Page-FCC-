@@ -173,3 +173,87 @@ class Dog : public Animal {
     }
 };
 ```
+#### Abstract class
+> Được tạo nhằm mục đích kế thừa, các lớp chỉ được kế thừa một Abstract
+```
+using System;
+namespace oop
+{
+    abstract class Animal
+    {
+        public abstract void Speak();
+
+        public virtual void Eat(string something)
+        {
+            Console.WriteLine("Eat " + something);
+        }
+    }
+    
+    class Dog : Animal
+    {
+        public override void Speak()
+        {
+            Console.WriteLine("Dog speaks go go");
+        }
+    }
+    
+    class Cat : Animal
+    {
+        public override void Speak()
+        {
+            Console.WriteLine("Cat speaks meo meo");
+        }
+    }
+}
+```
+>Có thể thấy là class Dog, Cat chỉ có thể extend một abstract class, ở trên chúng ta viết method Eat() với từ khóa virtual nên class Dog, Cat có thể override lại.
+
+
+#### Interface
+>Interface không phải là class. Nó chỉ chứa những method/properties trống không có thực thi. Interface giống như một khuôn mẫu, một khung để để các lớp implement và follow. Các lớp có thể implements nhiều interface. Tức nó là một contract, các class implement phải triển khai các method theo như interface đã định nghĩa.
+```
+namespace oop
+{
+    interface IAnimal
+    {
+        void Speak();
+        void Eat();
+        int X { get; set; }
+    }
+    interface Interface2
+    {
+        int Method1();
+    }
+    
+    class Pig : IAnimal,Interface2
+    {
+        public void Eat()
+        {
+            Console.WriteLine("Lợn ăn cám...");
+        }
+
+        public void Speak()
+        {
+            Console.WriteLine("Lợn kêu ec ec...");
+        }
+
+        public int X { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
+        public int Method1() { throw new NotImplementedException(); }
+    }
+    
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Pig p = new Pig();
+            Bird b = new Bird();
+            p.Speak();
+            p.Eat();
+
+            b.Speak();
+            b.Eat();
+        }
+    }
+}
+```
